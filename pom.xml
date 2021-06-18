@@ -30,7 +30,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://15.206.151.18:8081/nexus/content/repositories/snapshots/</url>
+            <url>http://172.31.11.138:8081/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
