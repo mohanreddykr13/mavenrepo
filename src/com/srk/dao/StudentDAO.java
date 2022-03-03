@@ -1,4 +1,4 @@
-package com.srk.dao;
+package com.srk.dao1;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
